@@ -41,6 +41,18 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Cabbage",
+      "image": "https://images.squarespace-cdn.com/content/v1/60d5fe5c9e25003cd4b3b2ed/1634316438635-27FNWQSMMPRHWXB0MLGJ/green-cabbage-envato.jpg",
+      "price": "30",
+      "id": 8
+    },
+    {
+      "name": "Mango",
+      "image": "https://res.cloudinary.com/easyplant/image/fetch/f_auto,q_auto:good,c_fill,w_1140,h_1278/https://cdn.shopify.com/s/files/1/0513/8032/2473/products/MoneyTreeLarge_Iron_Gray_4b3a9b12-f226-45d6-9b02-1afcad5a0bc5.jpg?v=1709577914",
+      "price": "40",
+      "id": 9
     }
   ]
 }
